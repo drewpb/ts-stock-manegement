@@ -1,6 +1,6 @@
 # Stock Management Desktop app
 
-	![imagen](https://github.com/user-attachments/assets/ca78b32c-9cb8-42be-a77f-add683ad539d)
+![imagen](https://github.com/user-attachments/assets/ca78b32c-9cb8-42be-a77f-add683ad539d)
 
 ## Desktop app with database project
 
@@ -29,7 +29,20 @@ Preparing the environment
 - Open the project 
 - Open the PyCharm terminal
 - Install the dependencies:
-◦ `pip install -r requirements.txt`
+    -`pip install -r requirements.txt`
 - Run the program:
-◦ `python app.py`
+    -`python app.py`
 
+
+## How the application works
+
+Main window:
+![imagen](https://github.com/user-attachments/assets/b04b1560-6477-4344-bcd9-b39aed4ee086)
+
+Create a new product:
+![imagen](https://github.com/user-attachments/assets/714655f6-f527-4538-b472-768074875a5f)
+
+Edit already created product:
+![imagen](https://github.com/user-attachments/assets/6a8e3180-fa11-4913-bb49-f0bf7773f0a2)
+
+And delete an existing product by clicking on 'Eliminar' product selected
